@@ -68,8 +68,7 @@ The project totals on the order of 100,000 lines of code, written alone.
 HolyC is the language Terry built for TempleOS. It resembles C and C++ but drops a lot of ceremony, and it is used both as the system language and as the shell scripting language.
 
 ```c
-// Hello, TempleOS
-"Hello, World!\n";
+"Hello\n";
 
 U0 Greet(U8 *name)
 {
